@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: SUSE;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(196, 195, 195);
+    overflow: hidden;
+}
+
+.container {
+    text-align: center;
+    align-items: center;
+    margin-top: 10%;
+    justify-content: center;
+    min-height: 100hv;
+    font-size: 25px;
+}
+
+h3 {
+    margin-top: 5%;
+    text-decoration: underline;
+}
